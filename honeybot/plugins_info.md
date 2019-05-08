@@ -28,7 +28,7 @@ Bot Will join a given channel in the server
 \
 <code>.channeljoin channel</code>
 
-#comic.py
+# comic.py
 by Miguel Boekhold\
 returns a random comic
 \
