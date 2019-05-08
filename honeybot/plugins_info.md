@@ -32,6 +32,7 @@ Bot Will join a given channel in the server
 by Miguel Boekhold\
 returns a random comic
 \
+<code>.comic</code>
 
 # converter.py
 by Angelo Giacco\
