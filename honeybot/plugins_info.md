@@ -28,6 +28,11 @@ Bot Will join a given channel in the server
 \
 <code>.channeljoin channel</code>
 
+#comic.py
+by Miguel Boekhold\
+returns a random comic
+\
+
 # converter.py
 by Angelo Giacco\
 Gets the top 10 headlines around the world from bbc world news
